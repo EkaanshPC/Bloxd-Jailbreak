@@ -44,7 +44,7 @@ This repository is **not actively maintained**.
 ---
 
 ## USAGE
-- First, put this [World Code](World Code.md)
+- First, put this [World Code](WORLD_CODE.js)
 
 
 ---
